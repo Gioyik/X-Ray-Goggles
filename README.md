@@ -1,4 +1,3 @@
-X-Ray-Goggles
-=============
+X Ray Goggles
 
-Addon para Firefox para activar facilmente las XRay Goggles de Hackasaurus
+Activa las X Ray Goggles desde tu barra de Addons! Facil y rapido!
